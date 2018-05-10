@@ -1,0 +1,6 @@
+HELLO=D:\bitcamp104\java\Labs_KJW\Ex09_IO\Temp\HELLO.txt
+HELLO 1
+2
+3
+HELLO 4
+HELLO 5
